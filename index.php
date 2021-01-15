@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-        MASTER 
+homolog
 </body>
 </html>
